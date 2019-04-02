@@ -2,9 +2,79 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2ed203d8-5bcb-4fb0-a006-fe69719511f9" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/img/bg9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/bootstrap-datetimepicker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/bootstrap-selectpicker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/bootstrap-tagsinput.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jasny-bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jquery.flexisel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/material-kit.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/material.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/moment.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/nouislider.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/material-kit.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/material-kit/_alerts.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/material-kit/_buttons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/material-kit/_cards.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/material-kit/_carousel.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/material-kit/_checkboxes.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/material-kit/_colors.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/material-kit/_dialogs.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/material-kit/_dividers.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/material-kit/_dropdown.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/material-kit/_example-pages.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/material-kit/_fileupload.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/material-kit/_flexisel.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/material-kit/_form.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/material-kit/_images.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/material-kit/_import-bs-less.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/material-kit/_import-bs-sass.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/material-kit/_info-areas.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/material-kit/_inputs-size.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/material-kit/_inputs.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/material-kit/_labels.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/material-kit/_lists.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/material-kit/_media.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/material-kit/_misc.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/material-kit/_mixins.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/material-kit/_navbar.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/material-kit/_pagination.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/material-kit/_panels.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/material-kit/_pills.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/material-kit/_popups.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/material-kit/_progress.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/material-kit/_radios.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/material-kit/_responsive.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/material-kit/_ripples.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/material-kit/_sections.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/material-kit/_select.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/material-kit/_shadows.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/material-kit/_tables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/material-kit/_tabs.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/material-kit/_tags.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/material-kit/_togglebutton.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/material-kit/_typography.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/material-kit/_variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/material-kit/_variables_bootstrap.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/material-kit/_welljumbo.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/material-kit/plugins/_plugin-bootstrap-select.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/material-kit/plugins/_plugin-datetime-picker.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/material-kit/plugins/_plugin-nouislider.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/material-kit/sections/_blogs.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/material-kit/sections/_contactus.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/material-kit/sections/_features.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/material-kit/sections/_footers.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/material-kit/sections/_headers.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/material-kit/sections/_pricing.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/material-kit/sections/_projects.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/material-kit/sections/_social-subscribe-lines.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/material-kit/sections/_team.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/material-kit/sections/_testimonials.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/material-kit.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/material-kit.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/bootstrap.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/signin.html" beforeDir="false" afterPath="$PROJECT_DIR$/signin.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,25 +86,42 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="signin.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="signin.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/signin.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="47" column="24" lean-forward="true" selection-start-line="47" selection-start-column="24" selection-end-line="47" selection-end-column="24" />
+            <state relative-caret-position="255">
+              <caret line="150" column="18" lean-forward="true" selection-start-line="150" selection-start-column="18" selection-end-line="150" selection-end-column="18" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#15377#15383#0" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#noscript#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#6770#6776#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="material-kit.min.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="login-page.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/login-page.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="884">
+              <caret line="52" column="73" selection-start-line="52" selection-start-column="73" selection-end-line="52" selection-end-column="73" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="material-kit.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/material-kit.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="8" selection-start-column="8" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="material-kit.min.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/material-kit.min.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="185">
-              <caret line="15226" column="18" selection-start-line="15226" selection-start-column="18" selection-end-line="15226" selection-end-column="18" />
+            <state relative-caret-position="162163">
+              <caret line="9539" column="27" selection-start-line="9539" selection-start-column="27" selection-end-line="9539" selection-end-column="27" />
               <folding>
                 <element signature="e#68537#68740#2" expanded="true" />
                 <element signature="e#68992#69144#2" expanded="true" />
@@ -44,7 +131,19 @@
                 <element signature="e#82243#82492#2" expanded="true" />
                 <element signature="e#111170#111363#2" expanded="true" />
                 <element signature="e#111419#111612#2" expanded="true" />
-                <marker date="1554107607035" expanded="true" signature="174636:174693" ph="..." />
+                <marker date="1554109145207" expanded="true" signature="174636:174693" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="material-kit.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/material-kit.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2125">
+              <caret line="136" column="62" selection-start-line="136" selection-start-column="56" selection-end-line="136" selection-end-column="62" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -69,6 +168,13 @@
       <find>.btn.btn-rose.focus, .btn.btn-rose:focus, .btn.btn-rose:hover</find>
       <find>.btn.btn-rose</find>
       <find>.btn.btn-rose.btn-link, .btn.btn-rose.btn-link:active, .btn.btn-rose.btn-link:focus, .btn.btn-rose.btn-link:hover</find>
+      <find>.login-page .footer .copyright a</find>
+      <find>.form-control, .is-focused .form-control</find>
+      <find>a:focus, a:hover</find>
+      <find>card-title</find>
+      <find>drop</find>
+      <find>naviga</find>
+      <find>navigation-example</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -81,8 +187,9 @@
         <option value="$PROJECT_DIR$/css/demo.css" />
         <option value="$PROJECT_DIR$/css/vertical-nav.css" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/signin.html" />
         <option value="$PROJECT_DIR$/css/material-kit.min.css" />
+        <option value="$PROJECT_DIR$/login-page.html" />
+        <option value="$PROJECT_DIR$/signin.html" />
       </list>
     </option>
   </component>
@@ -108,6 +215,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -115,31 +223,28 @@
               <item name="mkathe" type="b2602c69:ProjectViewProjectNode" />
               <item name="mkathe" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="mkathe" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mkathe" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="AndroidView" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../new" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\Avalanche\BestTutor.lk\mkathe\img" />
       <recent name="E:\Avalanche\BestTutor.lk\mkathe" />
+      <recent name="E:\Avalanche\BestTutor.lk\mkathe\css" />
+      <recent name="E:\Avalanche\BestTutor.lk\mkathe\img" />
+      <recent name="E:\Avalanche\BestTutor.lk\mkathe\js" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -209,12 +314,13 @@
       <updated>1553837943659</updated>
       <workItem from="1553837964919" duration="1450000" />
       <workItem from="1553959148271" duration="1185000" />
-      <workItem from="1554089804475" duration="9547000" />
+      <workItem from="1554089804475" duration="15848000" />
+      <workItem from="1554189008522" duration="1258000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12182000" />
+    <option name="totallyTimeSpent" value="19741000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -233,7 +339,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32838285" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2655068" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26928896" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -258,12 +364,64 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/signin.html">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2584">
+          <caret line="152" column="16" lean-forward="true" selection-start-line="152" selection-start-column="16" selection-end-line="156" selection-end-column="113" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#6770#6776#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login-page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="884">
+          <caret line="52" column="73" lean-forward="true" selection-start-line="52" selection-start-column="73" selection-end-line="52" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/material-kit.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="8" selection-start-column="8" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/material-kit.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162163">
+          <caret line="9539" column="27" lean-forward="true" selection-start-line="9539" selection-start-column="27" selection-end-line="9539" selection-end-column="27" />
+          <folding>
+            <element signature="e#68537#68740#2" expanded="true" />
+            <element signature="e#68992#69144#2" expanded="true" />
+            <element signature="e#69707#69856#2" expanded="true" />
+            <element signature="e#70226#70392#1" expanded="true" />
+            <element signature="e#81046#81289#2" expanded="true" />
+            <element signature="e#82243#82492#2" expanded="true" />
+            <element signature="e#111170#111363#2" expanded="true" />
+            <element signature="e#111419#111612#2" expanded="true" />
+            <marker date="1554109145207" expanded="true" signature="174636:174693" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/material-kit.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2312">
+          <caret line="136" column="62" selection-start-line="136" selection-start-column="56" selection-end-line="136" selection-end-column="62" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/signin.html">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" selection-start-line="7" selection-end-line="7" />
           <folding>
             <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#15377#15383#0" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#noscript#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#6770#6776#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -292,25 +450,36 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/bg-2.jpg">
-      <provider selected="true" editor-type-id="images" />
+    <entry file="file://$PROJECT_DIR$/js/nouislider.min.js">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/signin.html">
+    <entry file="file://$PROJECT_DIR$/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sass/material-kit/plugins/_plugin-nouislider.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/material-kit.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="47" column="24" lean-forward="true" selection-start-line="47" selection-start-column="24" selection-end-line="47" selection-end-column="24" />
+        <state relative-caret-position="2125">
+          <caret line="136" column="62" selection-start-line="136" selection-start-column="56" selection-end-line="136" selection-end-column="62" />
           <folding>
-            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#15377#15383#0" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#noscript#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#!!doc" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/material-kit.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="8" selection-start-column="8" selection-end-column="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/material-kit.min.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="185">
-          <caret line="15226" column="18" selection-start-line="15226" selection-start-column="18" selection-end-line="15226" selection-end-column="18" />
+        <state relative-caret-position="162163">
+          <caret line="9539" column="27" selection-start-line="9539" selection-start-column="27" selection-end-line="9539" selection-end-column="27" />
           <folding>
             <element signature="e#68537#68740#2" expanded="true" />
             <element signature="e#68992#69144#2" expanded="true" />
@@ -320,7 +489,28 @@
             <element signature="e#82243#82492#2" expanded="true" />
             <element signature="e#111170#111363#2" expanded="true" />
             <element signature="e#111419#111612#2" expanded="true" />
-            <marker date="1554107607035" expanded="true" signature="174636:174693" ph="..." />
+            <marker date="1554109145207" expanded="true" signature="174636:174693" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login-page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="884">
+          <caret line="52" column="73" selection-start-line="52" selection-start-column="73" selection-end-line="52" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/bg-2.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/signin.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="150" column="18" lean-forward="true" selection-start-line="150" selection-start-column="18" selection-end-line="150" selection-end-column="18" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#6770#6776#0" expanded="true" />
           </folding>
         </state>
       </provider>
